@@ -1,0 +1,3 @@
+[submodule "Habr.Career_Parser"]
+	path = Habr.Career_Parser
+	url = https://github.com/DaNKAadnka/Habr.Career_Parser
